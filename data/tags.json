@@ -1,0 +1,944 @@
+{
+    "status": "OK",
+    "result": {
+        "problems": [
+            {
+                "contestId": 1864,
+                "index": "E",
+                "name": "Guess Game",
+                "type": "PROGRAMMING",
+                "points": 2000.0,
+                "tags": [
+                    "bitmasks",
+                    "data structures",
+                    "games",
+                    "math",
+                    "probabilities",
+                    "sortings",
+                    "strings",
+                    "trees"
+                ]
+            },
+            {
+                "contestId": 1858,
+                "index": "A",
+                "name": "Buttons",
+                "type": "PROGRAMMING",
+                "points": 500.0,
+                "rating": 800,
+                "tags": [
+                    "games",
+                    "greedy",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1848,
+                "index": "A",
+                "name": "Vika and Her Friends",
+                "type": "PROGRAMMING",
+                "points": 500.0,
+                "rating": 900,
+                "tags": [
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1842,
+                "index": "A",
+                "name": "Tenzing and Tsondu",
+                "type": "PROGRAMMING",
+                "points": 250.0,
+                "rating": 800,
+                "tags": [
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1834,
+                "index": "C",
+                "name": "Game with Reversing",
+                "type": "PROGRAMMING",
+                "points": 1250.0,
+                "rating": 1200,
+                "tags": [
+                    "games",
+                    "greedy",
+                    "math",
+                    "strings"
+                ]
+            },
+            {
+                "contestId": 1823,
+                "index": "E",
+                "name": "Removing Graph",
+                "type": "PROGRAMMING",
+                "points": 2000.0,
+                "rating": 2500,
+                "tags": [
+                    "brute force",
+                    "dp",
+                    "games",
+                    "graphs",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1738,
+                "index": "C",
+                "name": "Even Number Addicts",
+                "type": "PROGRAMMING",
+                "points": 1500.0,
+                "rating": 1500,
+                "tags": [
+                    "dp",
+                    "games",
+                    "greedy",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1737,
+                "index": "C",
+                "name": "Ela and Crickets",
+                "type": "PROGRAMMING",
+                "points": 1500.0,
+                "rating": 1500,
+                "tags": [
+                    "constructive algorithms",
+                    "games",
+                    "implementation",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1719,
+                "index": "A",
+                "name": "Chip Game",
+                "type": "PROGRAMMING",
+                "points": 500.0,
+                "rating": 800,
+                "tags": [
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1684,
+                "index": "A",
+                "name": "Digit Minimization",
+                "type": "PROGRAMMING",
+                "points": 500.0,
+                "rating": 800,
+                "tags": [
+                    "constructive algorithms",
+                    "games",
+                    "math",
+                    "strings"
+                ]
+            },
+            {
+                "contestId": 1672,
+                "index": "A",
+                "name": "Log Chopping",
+                "type": "PROGRAMMING",
+                "points": 250.0,
+                "rating": 800,
+                "tags": [
+                    "games",
+                    "implementation",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1665,
+                "index": "D",
+                "name": "GCD Guess",
+                "type": "PROGRAMMING",
+                "points": 1500.0,
+                "rating": 2000,
+                "tags": [
+                    "bitmasks",
+                    "chinese remainder theorem",
+                    "constructive algorithms",
+                    "games",
+                    "interactive",
+                    "math",
+                    "number theory"
+                ]
+            },
+            {
+                "contestId": 1658,
+                "index": "E",
+                "name": "Gojou and Matrix Game",
+                "type": "PROGRAMMING",
+                "points": 2500.0,
+                "rating": 2500,
+                "tags": [
+                    "data structures",
+                    "dp",
+                    "games",
+                    "hashing",
+                    "implementation",
+                    "math",
+                    "number theory",
+                    "sortings"
+                ]
+            },
+            {
+                "contestId": 1628,
+                "index": "D2",
+                "name": "Game on Sum (Hard Version)",
+                "type": "PROGRAMMING",
+                "points": 750.0,
+                "rating": 2400,
+                "tags": [
+                    "combinatorics",
+                    "dp",
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1628,
+                "index": "D1",
+                "name": "Game on Sum (Easy Version)",
+                "type": "PROGRAMMING",
+                "points": 1000.0,
+                "rating": 2100,
+                "tags": [
+                    "combinatorics",
+                    "dp",
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1617,
+                "index": "E",
+                "name": "Christmas Chocolates",
+                "type": "PROGRAMMING",
+                "points": 3000.0,
+                "rating": 2700,
+                "tags": [
+                    "dfs and similar",
+                    "dp",
+                    "games",
+                    "graphs",
+                    "implementation",
+                    "math",
+                    "number theory",
+                    "shortest paths",
+                    "trees"
+                ]
+            },
+            {
+                "contestId": 1615,
+                "index": "E",
+                "name": "Purple Crayon",
+                "type": "PROGRAMMING",
+                "points": 2750.0,
+                "rating": 2400,
+                "tags": [
+                    "data structures",
+                    "dfs and similar",
+                    "games",
+                    "graphs",
+                    "greedy",
+                    "math",
+                    "sortings",
+                    "trees"
+                ]
+            },
+            {
+                "contestId": 1537,
+                "index": "D",
+                "name": "Deleting Divisors",
+                "type": "PROGRAMMING",
+                "points": 1500.0,
+                "rating": 1700,
+                "tags": [
+                    "games",
+                    "math",
+                    "number theory"
+                ]
+            },
+            {
+                "contestId": 1536,
+                "index": "F",
+                "name": "Omkar and Akmar",
+                "type": "PROGRAMMING",
+                "points": 2500.0,
+                "rating": 2600,
+                "tags": [
+                    "chinese remainder theorem",
+                    "combinatorics",
+                    "constructive algorithms",
+                    "fft",
+                    "games",
+                    "geometry",
+                    "math",
+                    "meet-in-the-middle",
+                    "string suffix structures"
+                ]
+            },
+            {
+                "contestId": 1498,
+                "index": "F",
+                "name": "Christmas Game",
+                "type": "PROGRAMMING",
+                "points": 3000.0,
+                "rating": 2500,
+                "tags": [
+                    "bitmasks",
+                    "data structures",
+                    "dfs and similar",
+                    "dp",
+                    "games",
+                    "math",
+                    "trees"
+                ]
+            },
+            {
+                "contestId": 1455,
+                "index": "C",
+                "name": "Ping-pong",
+                "type": "PROGRAMMING",
+                "rating": 1100,
+                "tags": [
+                    "constructive algorithms",
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1451,
+                "index": "D",
+                "name": "Circle Game",
+                "type": "PROGRAMMING",
+                "points": 1750.0,
+                "rating": 1700,
+                "tags": [
+                    "games",
+                    "geometry",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1411,
+                "index": "G",
+                "name": "No Game No Life",
+                "type": "PROGRAMMING",
+                "points": 3250.0,
+                "rating": 2700,
+                "tags": [
+                    "bitmasks",
+                    "games",
+                    "math",
+                    "matrices"
+                ]
+            },
+            {
+                "contestId": 1383,
+                "index": "B",
+                "name": "GameGame",
+                "type": "PROGRAMMING",
+                "points": 1000.0,
+                "rating": 1900,
+                "tags": [
+                    "bitmasks",
+                    "constructive algorithms",
+                    "dp",
+                    "games",
+                    "greedy",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1375,
+                "index": "F",
+                "name": "Integer Game",
+                "type": "PROGRAMMING",
+                "points": 2000.0,
+                "rating": 2600,
+                "tags": [
+                    "constructive algorithms",
+                    "games",
+                    "interactive",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1370,
+                "index": "C",
+                "name": "Number Game",
+                "type": "PROGRAMMING",
+                "points": 1500.0,
+                "rating": 1400,
+                "tags": [
+                    "games",
+                    "math",
+                    "number theory"
+                ]
+            },
+            {
+                "contestId": 1368,
+                "index": "F",
+                "name": "Lamps on a Circle",
+                "type": "PROGRAMMING",
+                "points": 3000.0,
+                "rating": 2600,
+                "tags": [
+                    "games",
+                    "implementation",
+                    "interactive",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1270,
+                "index": "A",
+                "name": "Card Game",
+                "type": "PROGRAMMING",
+                "points": 500.0,
+                "rating": 800,
+                "tags": [
+                    "games",
+                    "greedy",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1215,
+                "index": "D",
+                "name": "Ticket Game",
+                "type": "PROGRAMMING",
+                "points": 2000.0,
+                "rating": 1700,
+                "tags": [
+                    "games",
+                    "greedy",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 1194,
+                "index": "D",
+                "name": "1-2-K Game",
+                "type": "PROGRAMMING",
+                "rating": 1700,
+                "tags": [
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 959,
+                "index": "A",
+                "name": "Mahmoud and Ehab and the even-odd game",
+                "type": "PROGRAMMING",
+                "points": 500.0,
+                "rating": 800,
+                "tags": [
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 841,
+                "index": "B",
+                "name": "Godsend",
+                "type": "PROGRAMMING",
+                "points": 1000.0,
+                "rating": 1100,
+                "tags": [
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 832,
+                "index": "A",
+                "name": "Sasha and Sticks",
+                "type": "PROGRAMMING",
+                "points": 500.0,
+                "rating": 800,
+                "tags": [
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 794,
+                "index": "E",
+                "name": "Choosing Carrot",
+                "type": "PROGRAMMING",
+                "points": 2500.0,
+                "rating": 2800,
+                "tags": [
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 705,
+                "index": "B",
+                "name": "Spider Man",
+                "type": "PROGRAMMING",
+                "points": 1000.0,
+                "rating": 1100,
+                "tags": [
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 630,
+                "index": "R",
+                "name": "Game",
+                "type": "PROGRAMMING",
+                "rating": 1200,
+                "tags": [
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 603,
+                "index": "C",
+                "name": "Lieges of Legendre",
+                "type": "PROGRAMMING",
+                "points": 1500.0,
+                "rating": 2200,
+                "tags": [
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 570,
+                "index": "B",
+                "name": "Simple Game",
+                "type": "PROGRAMMING",
+                "points": 1000.0,
+                "rating": 1300,
+                "tags": [
+                    "constructive algorithms",
+                    "games",
+                    "greedy",
+                    "implementation",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 533,
+                "index": "C",
+                "name": "Board Game",
+                "type": "PROGRAMMING",
+                "points": 250.0,
+                "rating": 1700,
+                "tags": [
+                    "games",
+                    "greedy",
+                    "implementation",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 493,
+                "index": "D",
+                "name": "Vasya and Chess",
+                "type": "PROGRAMMING",
+                "points": 1500.0,
+                "rating": 1700,
+                "tags": [
+                    "constructive algorithms",
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 346,
+                "index": "A",
+                "name": "Alice and Bob",
+                "type": "PROGRAMMING",
+                "points": 500.0,
+                "rating": 1600,
+                "tags": [
+                    "games",
+                    "math",
+                    "number theory"
+                ]
+            },
+            {
+                "contestId": 255,
+                "index": "E",
+                "name": "Furlo and Rublo and Game",
+                "type": "PROGRAMMING",
+                "points": 2500.0,
+                "rating": 2200,
+                "tags": [
+                    "games",
+                    "implementation",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 197,
+                "index": "A",
+                "name": "Plate Game",
+                "type": "PROGRAMMING",
+                "points": 1000.0,
+                "rating": 1600,
+                "tags": [
+                    "constructive algorithms",
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 167,
+                "index": "C",
+                "name": "Wizards and Numbers",
+                "type": "PROGRAMMING",
+                "points": 1500.0,
+                "rating": 2300,
+                "tags": [
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 154,
+                "index": "D",
+                "name": "Flatland Fencing",
+                "type": "PROGRAMMING",
+                "points": 2000.0,
+                "rating": 2400,
+                "tags": [
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 150,
+                "index": "A",
+                "name": "Win or Freeze",
+                "type": "PROGRAMMING",
+                "points": 500.0,
+                "rating": 1400,
+                "tags": [
+                    "games",
+                    "math",
+                    "number theory"
+                ]
+            },
+            {
+                "contestId": 148,
+                "index": "D",
+                "name": "Bag of mice",
+                "type": "PROGRAMMING",
+                "points": 1000.0,
+                "rating": 1800,
+                "tags": [
+                    "dp",
+                    "games",
+                    "math",
+                    "probabilities"
+                ]
+            },
+            {
+                "contestId": 120,
+                "index": "E",
+                "name": "Put Knight!",
+                "type": "PROGRAMMING",
+                "rating": 1400,
+                "tags": [
+                    "games",
+                    "math"
+                ]
+            },
+            {
+                "contestId": 98,
+                "index": "E",
+                "name": "Help Shrek and Donkey",
+                "type": "PROGRAMMING",
+                "points": 2500.0,
+                "rating": 2700,
+                "tags": [
+                    "dp",
+                    "games",
+                    "math",
+                    "probabilities"
+                ]
+            },
+            {
+                "contestId": 87,
+                "index": "C",
+                "name": "Interesting Game",
+                "type": "PROGRAMMING",
+                "points": 1500.0,
+                "rating": 2000,
+                "tags": [
+                    "dp",
+                    "games",
+                    "math"
+                ]
+            }
+        ],
+        "problemStatistics": [
+            {
+                "contestId": 1864,
+                "index": "E",
+                "solvedCount": 1946
+            },
+            {
+                "contestId": 1858,
+                "index": "A",
+                "solvedCount": 26382
+            },
+            {
+                "contestId": 1848,
+                "index": "A",
+                "solvedCount": 14078
+            },
+            {
+                "contestId": 1842,
+                "index": "A",
+                "solvedCount": 17808
+            },
+            {
+                "contestId": 1834,
+                "index": "C",
+                "solvedCount": 10521
+            },
+            {
+                "contestId": 1823,
+                "index": "E",
+                "solvedCount": 1036
+            },
+            {
+                "contestId": 1738,
+                "index": "C",
+                "solvedCount": 9455
+            },
+            {
+                "contestId": 1737,
+                "index": "C",
+                "solvedCount": 5167
+            },
+            {
+                "contestId": 1719,
+                "index": "A",
+                "solvedCount": 24031
+            },
+            {
+                "contestId": 1684,
+                "index": "A",
+                "solvedCount": 22626
+            },
+            {
+                "contestId": 1672,
+                "index": "A",
+                "solvedCount": 15384
+            },
+            {
+                "contestId": 1665,
+                "index": "D",
+                "solvedCount": 3351
+            },
+            {
+                "contestId": 1658,
+                "index": "E",
+                "solvedCount": 900
+            },
+            {
+                "contestId": 1628,
+                "index": "D2",
+                "solvedCount": 1710
+            },
+            {
+                "contestId": 1628,
+                "index": "D1",
+                "solvedCount": 2651
+            },
+            {
+                "contestId": 1617,
+                "index": "E",
+                "solvedCount": 746
+            },
+            {
+                "contestId": 1615,
+                "index": "E",
+                "solvedCount": 1294
+            },
+            {
+                "contestId": 1537,
+                "index": "D",
+                "solvedCount": 11169
+            },
+            {
+                "contestId": 1536,
+                "index": "F",
+                "solvedCount": 851
+            },
+            {
+                "contestId": 1498,
+                "index": "F",
+                "solvedCount": 707
+            },
+            {
+                "contestId": 1455,
+                "index": "C",
+                "solvedCount": 18627
+            },
+            {
+                "contestId": 1451,
+                "index": "D",
+                "solvedCount": 8899
+            },
+            {
+                "contestId": 1411,
+                "index": "G",
+                "solvedCount": 528
+            },
+            {
+                "contestId": 1383,
+                "index": "B",
+                "solvedCount": 4567
+            },
+            {
+                "contestId": 1375,
+                "index": "F",
+                "solvedCount": 1796
+            },
+            {
+                "contestId": 1370,
+                "index": "C",
+                "solvedCount": 22036
+            },
+            {
+                "contestId": 1368,
+                "index": "F",
+                "solvedCount": 799
+            },
+            {
+                "contestId": 1270,
+                "index": "A",
+                "solvedCount": 16213
+            },
+            {
+                "contestId": 1215,
+                "index": "D",
+                "solvedCount": 5813
+            },
+            {
+                "contestId": 1194,
+                "index": "D",
+                "solvedCount": 5929
+            },
+            {
+                "contestId": 959,
+                "index": "A",
+                "solvedCount": 38722
+            },
+            {
+                "contestId": 841,
+                "index": "B",
+                "solvedCount": 11536
+            },
+            {
+                "contestId": 832,
+                "index": "A",
+                "solvedCount": 19188
+            },
+            {
+                "contestId": 794,
+                "index": "E",
+                "solvedCount": 621
+            },
+            {
+                "contestId": 705,
+                "index": "B",
+                "solvedCount": 8428
+            },
+            {
+                "contestId": 630,
+                "index": "R",
+                "solvedCount": 7760
+            },
+            {
+                "contestId": 603,
+                "index": "C",
+                "solvedCount": 1755
+            },
+            {
+                "contestId": 570,
+                "index": "B",
+                "solvedCount": 14898
+            },
+            {
+                "contestId": 533,
+                "index": "C",
+                "solvedCount": 2097
+            },
+            {
+                "contestId": 493,
+                "index": "D",
+                "solvedCount": 9195
+            },
+            {
+                "contestId": 346,
+                "index": "A",
+                "solvedCount": 8143
+            },
+            {
+                "contestId": 255,
+                "index": "E",
+                "solvedCount": 799
+            },
+            {
+                "contestId": 197,
+                "index": "A",
+                "solvedCount": 5760
+            },
+            {
+                "contestId": 167,
+                "index": "C",
+                "solvedCount": 630
+            },
+            {
+                "contestId": 154,
+                "index": "D",
+                "solvedCount": 400
+            },
+            {
+                "contestId": 150,
+                "index": "A",
+                "solvedCount": 7264
+            },
+            {
+                "contestId": 148,
+                "index": "D",
+                "solvedCount": 6222
+            },
+            {
+                "contestId": 120,
+                "index": "E",
+                "solvedCount": 2540
+            },
+            {
+                "contestId": 98,
+                "index": "E",
+                "solvedCount": 406
+            },
+            {
+                "contestId": 87,
+                "index": "C",
+                "solvedCount": 1249
+            }
+        ]
+    }
+}

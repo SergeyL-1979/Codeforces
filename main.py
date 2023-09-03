@@ -22,16 +22,25 @@ def get_problems():
 
 
 def get_tasks():
-    url = 'https://codeforces.com/api/problemset.problems?tags=math'
+    """ Сортировка по tags """
+    url = 'https://codeforces.com/api/problemset.problems?tags=math;games'
     response = requests.get(url=url).json()
-    with open('data/tasks.json', 'w', encoding='utf-8') as file:
+    with open('data/tags.json', 'w', encoding='utf-8') as file:
+        json.dump(response, file, indent=4, ensure_ascii=False)
+
+
+def get_action():
+    url = 'https://codeforces.com/api/recentActions?maxCount=30'
+    response = requests.get(url=url).json()
+    with open('data/action.json', 'w', encoding='utf-8') as file:
         json.dump(response, file, indent=4, ensure_ascii=False)
 
 
 def main():
     get_gym()
-    get_problems()
-    get_tasks()
+    # get_problems()
+    # get_tasks()
+    # get_action()
 
 
 if __name__ == '__main__':
