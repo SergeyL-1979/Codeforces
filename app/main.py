@@ -37,10 +37,12 @@ async def authenticated_route(user: User = Depends(current_active_user)):
     return {"message": f"Hello {user.email}!"}
 
 
-@app.on_event("startup")
-async def on_startup():
-    # Not needed if you setup a migration system like Alembic
-    await create_db_and_tables()
+# ====== Данное поле нужно если не используем библиотеку Alembic ======
+# @app.on_event("startup")
+# async def on_startup():
+#     # Not needed if you setup a migration system like Alembic
+#     # Не требуется, если вы настроили систему миграции, например Alembic.
+#     await create_db_and_tables()
 
 
 if __name__ == "__main__":
