@@ -7,7 +7,9 @@ from fastapi_users.db import SQLAlchemyBaseUserTableUUID, SQLAlchemyUserDatabase
 from sqlalchemy.ext.asyncio import AsyncSession, async_sessionmaker, create_async_engine
 from sqlalchemy.orm import DeclarativeBase
 
-# =++++++= СОЗДАЕМ ПОДКЛЮЧЕНИЕ К POSTGRES ========
+# DATABASE_URL = "sqlite+aiosqlite:///./test.db"
+
+# ================= СОЗДАЕМ ПОДКЛЮЧЕНИЕ К POSTGRES ===========================
 from dotenv import load_dotenv
 load_dotenv(override=True)
 
@@ -17,9 +19,9 @@ DB_PASS = os.getenv("DB_PASS")
 DB_HOST = os.getenv("DB_HOST")
 DB_PORT = os.getenv("DB_PORT")
 
-# DATABASE_URL = "sqlite+aiosqlite:///./test.db"
 # ============= ПОДКЛЮЧАЕМ С ПОМОЩЬЮ АСИНХРОННОГО ДРАЙВЕРА `asyncpg` ============
 DATABASE_URL = f"postgresql+asyncpg://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
+# ====================== КОНЕЦ ПОДКЛЮЧЕНИЯ К БД ================================
 
 
 class Base(DeclarativeBase):
