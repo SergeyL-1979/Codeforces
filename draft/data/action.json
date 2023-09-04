@@ -2,706 +2,698 @@
     "status": "OK",
     "result": [
         {
-            "timeSeconds": 1693771936,
+            "timeSeconds": 1693845250,
             "blogEntry": {
                 "originalLocale": "en",
                 "allowViewHistory": true,
-                "creationTimeSeconds": 1693765105,
-                "rating": 0,
-                "authorHandle": "gjain_7",
-                "modificationTimeSeconds": 1693771936,
-                "id": 120029,
-                "title": "<p>[Help] Segment with the Maximum Sum</p>",
-                "locale": "en",
-                "tags": [
-                    "segment tree",
-                    "debugging",
-                    "wrong answer"
-                ]
-            }
-        },
-        {
-            "timeSeconds": 1693771904,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693761085,
-                "rating": 76,
-                "authorHandle": "Pyqe",
-                "modificationTimeSeconds": 1693761085,
-                "id": 120025,
-                "title": "<p>COMPFEST 15 Preliminary — Editorial</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065131,
-                "creationTimeSeconds": 1693771904,
-                "commentatorHandle": "andrew__tateee",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>Hi, can someone please point out what's wrong in my code for problem c <a href=\"/contest/1866/submission/221747021\" title=\"Submission 221747021 by andrew__tateee\">221747021</a></p></div>",
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693771894,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693765105,
-                "rating": 0,
-                "authorHandle": "gjain_7",
-                "modificationTimeSeconds": 1693771936,
-                "id": 120029,
-                "title": "<p>[Help] Segment with the Maximum Sum</p>",
-                "locale": "en",
-                "tags": [
-                    "segment tree",
-                    "debugging",
-                    "wrong answer"
-                ]
-            },
-            "comment": {
-                "id": 1065130,
-                "creationTimeSeconds": 1693771894,
-                "commentatorHandle": "gjain_7",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>Oh yeah, correct. Thanks</p></div>",
-                "parentCommentId": 1065115,
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693771135,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693605430,
-                "rating": 149,
+                "creationTimeSeconds": 1693836784,
+                "rating": 30,
                 "authorHandle": "Sacharlemagne",
-                "modificationTimeSeconds": 1693605739,
-                "id": 119973,
-                "title": "<p>Congrats to Israel's IOI team!</p>",
+                "modificationTimeSeconds": 1693836784,
+                "id": 120061,
+                "title": "<p>About Codeforces and politics.</p>",
                 "locale": "en",
                 "tags": []
             },
             "comment": {
-                "id": 1065128,
-                "creationTimeSeconds": 1693771135,
-                "commentatorHandle": "Raito_Yagami",
+                "id": 1065339,
+                "creationTimeSeconds": 1693845250,
+                "commentatorHandle": "padoPhyleium",
                 "locale": "en",
-                "text": "<div class=\"ttypography\"><p>Idk there are many Christians in Syria not being killed. Also there were a lot of Jews in Syria and they were not getting killed either. In fact, there's a district in my city called The Jewish District which means they were living peacefully even</p></div>",
-                "parentCommentId": 1065126,
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693771028,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693749175,
-                "rating": 0,
-                "authorHandle": "Pranshu_Pandya",
-                "modificationTimeSeconds": 1693749282,
-                "id": 120016,
-                "title": "<p>What is Round-square tree?</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065127,
-                "creationTimeSeconds": 1693771028,
-                "commentatorHandle": "TheScrasse",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p><a href=\"https://noi.ph/training/weekly/week8.pdf\">Another resource</a></p></div>",
-                "rating": -1
-            }
-        },
-        {
-            "timeSeconds": 1693770281,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693605430,
-                "rating": 149,
-                "authorHandle": "Sacharlemagne",
-                "modificationTimeSeconds": 1693605739,
-                "id": 119973,
-                "title": "<p>Congrats to Israel's IOI team!</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065125,
-                "creationTimeSeconds": 1693770281,
-                "commentatorHandle": "Raito_Yagami",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>Allah in arabic means god. Abdullah means who worships god. I think Christians worship god</p></div>",
-                "parentCommentId": 1065124,
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693769878,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693605430,
-                "rating": 149,
-                "authorHandle": "Sacharlemagne",
-                "modificationTimeSeconds": 1693605739,
-                "id": 119973,
-                "title": "<p>Congrats to Israel's IOI team!</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065123,
-                "creationTimeSeconds": 1693769878,
-                "commentatorHandle": "Raito_Yagami",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>why are you assuming that I am muslim?</p></div>",
-                "parentCommentId": 1065112,
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693769700,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693766331,
-                "rating": 0,
-                "authorHandle": "tanishq2507",
-                "modificationTimeSeconds": 1693766331,
-                "id": 120034,
-                "title": "<p>How to prove this?</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065122,
-                "creationTimeSeconds": 1693769700,
-                "commentatorHandle": "tanishq2507",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>Thank you!!</p></div>",
-                "parentCommentId": 1065119,
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693769608,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693769608,
-                "rating": 1,
-                "authorHandle": "tamminaina_y",
-                "modificationTimeSeconds": 1693769608,
-                "id": 120035,
-                "title": "<p>A Random thought</p>",
-                "locale": "en",
-                "tags": []
-            }
-        },
-        {
-            "timeSeconds": 1693768860,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693605430,
-                "rating": 149,
-                "authorHandle": "Sacharlemagne",
-                "modificationTimeSeconds": 1693605739,
-                "id": 119973,
-                "title": "<p>Congrats to Israel's IOI team!</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065121,
-                "creationTimeSeconds": 1693768860,
-                "commentatorHandle": "King_Viper",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>I dont understand the purpose of this blog. It seems like you're making comparisons to war by saying things like &quot;Only beaten by global superpowers&quot; yet trying to convince people that you have a peaceful mentality that others lack. Don't you think this is a bit hypocritical? I believe that blogs like this one should lead to a ban for the writer, as they serve no purpose other than to create controversy.</p></div>",
-                "parentCommentId": 1064525,
-                "rating": 7
-            }
-        },
-        {
-            "timeSeconds": 1693768630,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693761085,
-                "rating": 76,
-                "authorHandle": "Pyqe",
-                "modificationTimeSeconds": 1693761085,
-                "id": 120025,
-                "title": "<p>COMPFEST 15 Preliminary — Editorial</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065120,
-                "creationTimeSeconds": 1693768630,
-                "commentatorHandle": "EgorUlin",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>We can avoid the extra logN in the algorithm if we make sorting not in bin search. The total solution will work in $$$O(N * (log N + log max(A))$$$. My solution began to work not in ~1000 milliseconds (with sorting in bin search), but in ~400 milliseconds (<a href=\"https://codeforces.com/contest/1866/submission/221741172\">https://codeforces.com/contest/1866/submission/221741172</a>)</p></div>",
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693768413,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693766331,
-                "rating": 0,
-                "authorHandle": "tanishq2507",
-                "modificationTimeSeconds": 1693766331,
-                "id": 120034,
-                "title": "<p>How to prove this?</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065119,
-                "creationTimeSeconds": 1693768413,
-                "commentatorHandle": "gloria_mundi",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>Notation: $$$n$$$ length of array, $$$a_i$$$ ($$$0 \\le i &lt; n$$$) $$$i$$$th element, $$$s_{lr} = \\sum_{l\\le j&lt;r}a_j$$$ ($$$0 \\le l \\le r \\le n$$$) sum of elements from $$$l$$$ to $$$r$$$, $$$p_i = s_{0i}$$$ prefix sum</p><p>Part 1: maximum absolute sum of a subarray $$$\\ge$$$ max prefix sum $$$-$$$ min prefix sum</p><p>Let $$$p_M$$$ and $$$p_m$$$ be the maximum and minimum prefix sum, respectively. WLOG assume $$$M \\le m$$$. Then $$$\\max(|s_{lr}|) \\ge |s_{Mm}| = |p_m - p_M| = p_M - p_m$$$.</p><p>Part 2: maximum absolute sum of a subarray $$$\\le$$$ max prefix sum $$$-$$$ min prefix sum</p><p>Let $$$L$$$, $$$R$$$ ($$$L\\le R$$$) be indices such that $$$\\max(|s_{lr}|) = |s_{LR}|$$$. WLOG assume $$$p_L \\le p_R$$$. Then, $$$\\max(|s_{lr}|) = |s_{LR}| = |p_R - p_L| = p_R - p_L \\le \\max(p_i) - \\min(p_i)$$$.</p></div>",
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693768220,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693761085,
-                "rating": 76,
-                "authorHandle": "Pyqe",
-                "modificationTimeSeconds": 1693761085,
-                "id": 120025,
-                "title": "<p>COMPFEST 15 Preliminary — Editorial</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065118,
-                "creationTimeSeconds": 1693768220,
-                "commentatorHandle": "Pyqe",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>Sorry, we weren't aware of the existence of that problem.</p></div>",
-                "parentCommentId": 1065114,
-                "rating": -1
-            }
-        },
-        {
-            "timeSeconds": 1693767870,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693763917,
-                "rating": 0,
-                "authorHandle": "fast_cpp",
-                "modificationTimeSeconds": 1693763972,
-                "id": 120028,
-                "title": "<p>Maspy solved 7000 problems</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065117,
-                "creationTimeSeconds": 1693767870,
-                "commentatorHandle": "Code_Hard10",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p><a class=\"rated-user user-red\" href=\"/profile/maspy\" title=\"International Grandmaster maspy\">maspy</a> orz</p></div>",
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693767835,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693749175,
-                "rating": 0,
-                "authorHandle": "Pranshu_Pandya",
-                "modificationTimeSeconds": 1693749282,
-                "id": 120016,
-                "title": "<p>What is Round-square tree?</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065116,
-                "creationTimeSeconds": 1693767835,
-                "commentatorHandle": "Pranshu_Pandya",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>Thanks a lot, it is explaining in good details.</p></div>",
-                "parentCommentId": 1065091,
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693767796,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693765105,
-                "rating": 0,
-                "authorHandle": "gjain_7",
-                "modificationTimeSeconds": 1693771936,
-                "id": 120029,
-                "title": "<p>[Help] Segment with the Maximum Sum</p>",
-                "locale": "en",
-                "tags": [
-                    "segment tree",
-                    "debugging",
-                    "wrong answer"
-                ]
-            },
-            "comment": {
-                "id": 1065115,
-                "creationTimeSeconds": 1693767796,
-                "commentatorHandle": "vgtcross",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>The idea is simply just wrong.</p><p>Consider this test case:</p> <pre><code>Input:\n8 0\n3 3 -100 5 5 -100 3 3\n\nCorrect Output:\n10\n\nYour Output:\n6\n</code></pre><p>(I know $$$m = 0$$$ isn't allowed in the statement but I assume your code works there correctly)</p><p>Can you see why this happens?</p></div>",
+                "text": "<div class=\"ttypography\"><p>No, but original blog is only congratulating IOI team and it is not political in many way. Actually, people from syria,egypt etc are spamming Free palestine which is political.</p><p><strong>I think people who are commenting free palestine and other political stuff should delete their respective comments to get rid of all that stuff</strong></p><p><strong>please dont hate on israel just because it outperforms many countries in many endeavours like academics(IOI etc) and military (for example it won many wars like Arab-Israeli war, six day war etc)</strong></p><p><strong>please dont bring politics on codeforces, dont let your frustrations of lost wars (like Arab-Israeli war, six day war etc) out on codeforces, it is for CP, not for politics</strong></p><p>Thanks for reading and being PEACEFULL, your patience is appreciated. </p><p>Again congratulations to israel for such a marvelous performance, all other countries like syria, egypt etc should also focus on developing their IOI team and become better and end up in top 10 someday, with efforts everything is possible and we have many free resources like Codeforces for practice as well.</p></div>",
+                "parentCommentId": 1065316,
                 "rating": 1
             }
         },
         {
-            "timeSeconds": 1693767617,
+            "timeSeconds": 1693845194,
             "blogEntry": {
                 "originalLocale": "en",
                 "allowViewHistory": true,
-                "creationTimeSeconds": 1693761085,
-                "rating": 76,
-                "authorHandle": "Pyqe",
-                "modificationTimeSeconds": 1693761085,
-                "id": 120025,
-                "title": "<p>COMPFEST 15 Preliminary — Editorial</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065114,
-                "creationTimeSeconds": 1693767617,
-                "commentatorHandle": "MarcosK",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>Problem I is literally an easier version of <a href=\"https://codeforces.com/contest/1458/problem/E\">1458-E</a></p><p>It turns out that it can be solved in $$$\\mathcal{O}(K*\\log{K})$$$, and even answer multiple queries for different values of $$$N$$$ and $$$M$$$ in $$$\\mathcal{O}(\\log{k})$$$ per query. Also, coordinates of all the values can be arbitrarily big (let’s say up to $$$10^{18}$$$).</p></div>",
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693767535,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693766331,
-                "rating": 0,
-                "authorHandle": "tanishq2507",
-                "modificationTimeSeconds": 1693766331,
-                "id": 120034,
-                "title": "<p>How to prove this?</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065113,
-                "creationTimeSeconds": 1693767535,
-                "commentatorHandle": "gloria_mundi",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>It's the maximum <strong>absolute</strong> sum of a subarray, so for your array, that would be abs(sum({-10})) = 10, and indeed 3-(-7) = 10.</p></div>",
-                "parentCommentId": 1065094,
-                "rating": 5
-            }
-        },
-        {
-            "timeSeconds": 1693767381,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693766331,
-                "rating": 0,
-                "authorHandle": "tanishq2507",
-                "modificationTimeSeconds": 1693766331,
-                "id": 120034,
-                "title": "<p>How to prove this?</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065111,
-                "creationTimeSeconds": 1693767381,
-                "commentatorHandle": "tanishq2507",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>Thanks for replying.but i am referring to the maximum absolute sum of a subbaray which is 10.Max val of |summation of al to ar|where 1&lt;=l&lt;=r&lt;=n.</p></div>",
-                "parentCommentId": 1065094,
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693767336,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693596515,
-                "rating": 26,
-                "authorHandle": "kylych03",
-                "modificationTimeSeconds": 1693758471,
-                "id": 119970,
-                "title": "<p>IOI 2023 Country Standings</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065110,
-                "creationTimeSeconds": 1693767336,
-                "commentatorHandle": "BlackSwan",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>My sincere congratulations to the Kyrgyz team for exceptional performance this year. It was pure joy to watch <a class=\"rated-user user-orange\" href=\"/profile/amunduzbaev\" title=\"Master amunduzbaev\">amunduzbaev</a> perform! Also congratulations to the leader <a class=\"rated-user user-blue\" href=\"/profile/kylych03\" title=\"Expert kylych03\">kylych03</a> who has been bringing together everyone and preparing participants for many years. Wish you gold medals in the future.</p></div>",
-                "rating": 7
-            }
-        },
-        {
-            "timeSeconds": 1693767188,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693605430,
-                "rating": 149,
+                "creationTimeSeconds": 1693836784,
+                "rating": 30,
                 "authorHandle": "Sacharlemagne",
-                "modificationTimeSeconds": 1693605739,
-                "id": 119973,
-                "title": "<p>Congrats to Israel's IOI team!</p>",
+                "modificationTimeSeconds": 1693836784,
+                "id": 120061,
+                "title": "<p>About Codeforces and politics.</p>",
                 "locale": "en",
                 "tags": []
             },
             "comment": {
-                "id": 1065108,
-                "creationTimeSeconds": 1693767188,
-                "commentatorHandle": "Raito_Yagami",
+                "id": 1065338,
+                "creationTimeSeconds": 1693845194,
+                "commentatorHandle": "nimaryan",
                 "locale": "en",
-                "text": "<div class=\"ttypography\"><p>noo! give to austrialia !! kangaroo rule</p></div>",
-                "parentCommentId": 1064993,
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693767142,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693741296,
-                "rating": 112,
-                "authorHandle": "BlackSwan",
-                "modificationTimeSeconds": 1693741296,
-                "id": 120012,
-                "title": "<p>IOI 2026 in Uzbekistan!</p>",
-                "locale": "en",
-                "tags": [
-                    "ioi2026",
-                    "uzbekistan"
-                ]
-            },
-            "comment": {
-                "id": 1065107,
-                "creationTimeSeconds": 1693767142,
-                "commentatorHandle": "Raito_Yagami",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>syria</p></div>",
-                "parentCommentId": 1065064,
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693767085,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693605430,
-                "rating": 149,
-                "authorHandle": "Sacharlemagne",
-                "modificationTimeSeconds": 1693605739,
-                "id": 119973,
-                "title": "<p>Congrats to Israel's IOI team!</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065106,
-                "creationTimeSeconds": 1693767085,
-                "commentatorHandle": "Raito_Yagami",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>do you realize that arab christians also want palestine to be free? it is not islamic nor terrorism.</p></div>",
-                "parentCommentId": 1065081,
-                "rating": 4
-            }
-        },
-        {
-            "timeSeconds": 1693766908,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693765105,
-                "rating": 0,
-                "authorHandle": "gjain_7",
-                "modificationTimeSeconds": 1693771936,
-                "id": 120029,
-                "title": "<p>[Help] Segment with the Maximum Sum</p>",
-                "locale": "en",
-                "tags": [
-                    "segment tree",
-                    "debugging",
-                    "wrong answer"
-                ]
-            },
-            "comment": {
-                "id": 1065101,
-                "creationTimeSeconds": 1693766908,
-                "commentatorHandle": "Sacharlemagne",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>try using long long instead of int, you might be overflowing</p></div>",
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693766769,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693765105,
-                "rating": 0,
-                "authorHandle": "gjain_7",
-                "modificationTimeSeconds": 1693771936,
-                "id": 120029,
-                "title": "<p>[Help] Segment with the Maximum Sum</p>",
-                "locale": "en",
-                "tags": [
-                    "segment tree",
-                    "debugging",
-                    "wrong answer"
-                ]
-            },
-            "comment": {
-                "id": 1065097,
-                "creationTimeSeconds": 1693766769,
-                "commentatorHandle": "gjain_7",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p><i>Auto comment: topic has been updated by <a class=\"rated-user user-cyan\" href=\"/profile/gjain_7\" title=\"Specialist gjain_7\">gjain_7</a> (<a href=\"/topic/120654/en1\">previous revision</a>, <a href=\"/topic/120654/en2\">new revision</a>, <a href=\"/topic/120654/diff/en1/en2\">compare</a>).</i></p></div>",
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693766685,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693766331,
-                "rating": 0,
-                "authorHandle": "tanishq2507",
-                "modificationTimeSeconds": 1693766331,
-                "id": 120034,
-                "title": "<p>How to prove this?</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065094,
-                "creationTimeSeconds": 1693766685,
-                "commentatorHandle": "Sacharlemagne",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>Well this statement isn't exactly true, let me show you why.<br /> take the following array {1,2,-10}<br /> the maximum subarray sum is 1+2=3<br /> but according to your formula its max prefix — min prefix = 3-(-7)=11<br /> which obviously isn't true.<br /> What you're looking for is the maximum value of a prefix sums minus the min prefix sum that ends before it<br />.</p></div>",
-                "rating": 0
-            }
-        },
-        {
-            "timeSeconds": 1693766547,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693761085,
-                "rating": 76,
-                "authorHandle": "Pyqe",
-                "modificationTimeSeconds": 1693761085,
-                "id": 120025,
-                "title": "<p>COMPFEST 15 Preliminary — Editorial</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065093,
-                "creationTimeSeconds": 1693766547,
-                "commentatorHandle": "aryanc403",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><div class=\"spoiler\"><b class=\"spoiler-title\">My soln of K is simpler than editorial.</b><div class=\"spoiler-content\" style=\"display: none;\"><p>Diameter is max of (tree diameter, sum of farthest 2 vertexes from Xi)<br />We can do it offline.<br />First, find the farthest vertex using CHT.<br />We can also maintain the vertex in CHT, so we know which vertex it is along with the farthest distance. </p><p>Let <code>v_1,v_2,v_3,....,v_k,....,v_m</code> be the order of adjacency list.<br />Let <code>v_k</code> be the farthest vertex.<br />We need farthest vertex in CHT of <code>[v1,v2,...,v{k-1}]</code> and <code>[v{k+1},....,v_m]</code><br />We can run two loops from 1,2,...,m and then m,m-1,....,1<br />Querying for max on prefix and suffix cht. </p></div></div></div>",
-                "rating": 6
-            }
-        },
-        {
-            "timeSeconds": 1693766497,
-            "blogEntry": {
-                "originalLocale": "en",
-                "allowViewHistory": true,
-                "creationTimeSeconds": 1693605430,
-                "rating": 149,
-                "authorHandle": "Sacharlemagne",
-                "modificationTimeSeconds": 1693605739,
-                "id": 119973,
-                "title": "<p>Congrats to Israel's IOI team!</p>",
-                "locale": "en",
-                "tags": []
-            },
-            "comment": {
-                "id": 1065092,
-                "creationTimeSeconds": 1693766497,
-                "commentatorHandle": "HaydarFakhoury",
-                "locale": "en",
-                "text": "<div class=\"ttypography\"><p>We have ourselves a degenerate here</p></div>",
-                "parentCommentId": 1065090,
+                "text": "<div class=\"ttypography\"><p>damn, all my comments deleted and my account banned for two days. Yeah that's exactly what I mean.</p><p>But there is still a problem, my comments really weren't offensive,<br />so why they didn't delete comments like &quot;we are muslim, blah blah... you should flah flah...&quot; but my comment which was about an Egyptian who considered himself as an Arab and I pointed out the history to him, was deleted!? or my comment that trolling the one that thinks jews are evil/satanic and some other comments!? </p><p>anyways, it's their platform and they can do whatever they want, so I didn't really upset about it, I'm just asking WHY? and I don't expect an answer either.</p></div>",
                 "rating": -1
             }
         },
         {
-            "timeSeconds": 1693766331,
+            "timeSeconds": 1693844593,
             "blogEntry": {
                 "originalLocale": "en",
                 "allowViewHistory": true,
-                "creationTimeSeconds": 1693766331,
-                "rating": 0,
-                "authorHandle": "tanishq2507",
-                "modificationTimeSeconds": 1693766331,
-                "id": 120034,
-                "title": "<p>How to prove this?</p>",
+                "creationTimeSeconds": 1693605430,
+                "rating": 107,
+                "authorHandle": "Sacharlemagne",
+                "modificationTimeSeconds": 1693605739,
+                "id": 119973,
+                "title": "<p>Congrats to Israel's IOI team!</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065335,
+                "creationTimeSeconds": 1693844593,
+                "commentatorHandle": "padoPhyleium",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p><strong>there is nothing written in the original post that makes comparisons to war</strong></p><p><strong>please dont twist the original post, the original post is non-political completely</strong></p><p><strong>please dont hate on israel just because it outperforms many countries in many endeavours like academics(IOI etc) and military (for example it won many wars like Arab-Israeli war, six day war etc)</strong></p><p><strong>please dont bring politics on codeforces, dont let your frustrations of lost wars (like Arab-Israeli war, six day war etc) out on codeforces, it is for CP, not for politics</strong></p><p>Thanks a lot for reading and being very PEACEFULL, thanks again</p></div>",
+                "parentCommentId": 1065121,
+                "rating": 4
+            }
+        },
+        {
+            "timeSeconds": 1693844498,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693836784,
+                "rating": 30,
+                "authorHandle": "Sacharlemagne",
+                "modificationTimeSeconds": 1693836784,
+                "id": 120061,
+                "title": "<p>About Codeforces and politics.</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065334,
+                "creationTimeSeconds": 1693844498,
+                "commentatorHandle": "Sacharlemagne",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>First of all im not going to delete a post because people got crazy below it, What they say doesnt matte to it.<br />Also this is a general question not only related to my blog. Its also about hate politics and such in general and not only about Israel and palestine islam ect....</p></div>",
+                "parentCommentId": 1065317,
+                "rating": 3
+            }
+        },
+        {
+            "timeSeconds": 1693843965,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693605430,
+                "rating": 107,
+                "authorHandle": "Sacharlemagne",
+                "modificationTimeSeconds": 1693605739,
+                "id": 119973,
+                "title": "<p>Congrats to Israel's IOI team!</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065333,
+                "creationTimeSeconds": 1693843965,
+                "commentatorHandle": "padoPhyleium",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>No</p><p>Actually, israel defeated arab syria/egypt etc. in war easily with much smaller military. That is why these nations are angry with israel because they have not been able to capture it despite their best efforts, I hope this clears your doubt, thanks for reading</p></div>",
+                "parentCommentId": 1065327,
+                "rating": 2
+            }
+        },
+        {
+            "timeSeconds": 1693843910,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693843397,
+                "rating": -2,
+                "authorHandle": "RPMCPP",
+                "modificationTimeSeconds": 1693843397,
+                "id": 120066,
+                "title": "<p>Serious debate</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065332,
+                "creationTimeSeconds": 1693843910,
+                "commentatorHandle": "tanishq2507",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>n = n*(6968-6969)</p></div>",
+                "rating": 3
+            }
+        },
+        {
+            "timeSeconds": 1693843686,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693843397,
+                "rating": -2,
+                "authorHandle": "RPMCPP",
+                "modificationTimeSeconds": 1693843397,
+                "id": 120066,
+                "title": "<p>Serious debate</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065331,
+                "creationTimeSeconds": 1693843686,
+                "commentatorHandle": "roycf123",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>Why does it matter too much?</p></div>",
+                "rating": 2
+            }
+        },
+        {
+            "timeSeconds": 1693843397,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693843397,
+                "rating": -2,
+                "authorHandle": "RPMCPP",
+                "modificationTimeSeconds": 1693843397,
+                "id": 120066,
+                "title": "<p>Serious debate</p>",
                 "locale": "en",
                 "tags": []
             }
         },
         {
-            "timeSeconds": 1693766240,
+            "timeSeconds": 1693843178,
             "blogEntry": {
                 "originalLocale": "en",
                 "allowViewHistory": true,
-                "creationTimeSeconds": 1693749175,
-                "rating": 0,
-                "authorHandle": "Pranshu_Pandya",
-                "modificationTimeSeconds": 1693749282,
-                "id": 120016,
-                "title": "<p>What is Round-square tree?</p>",
+                "creationTimeSeconds": 1693836832,
+                "rating": -14,
+                "authorHandle": "_Red_54",
+                "modificationTimeSeconds": 1693837161,
+                "id": 120062,
+                "title": "<p>Day 0 — Climbing The Red</p>",
                 "locale": "en",
                 "tags": []
             },
             "comment": {
-                "id": 1065091,
-                "creationTimeSeconds": 1693766240,
-                "commentatorHandle": "-kirito-",
+                "id": 1065330,
+                "creationTimeSeconds": 1693843178,
+                "commentatorHandle": "pathetique",
                 "locale": "en",
-                "text": "<div class=\"ttypography\"><p><a href=\"https://oi-wiki.org/graph/block-forest/\">Chinese resource where i learnt it from (you can use google translate)</a></p></div>",
+                "text": "<div class=\"ttypography\"><p>orz</p></div>",
                 "rating": 0
+            }
+        },
+        {
+            "timeSeconds": 1693843175,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693605430,
+                "rating": 107,
+                "authorHandle": "Sacharlemagne",
+                "modificationTimeSeconds": 1693605739,
+                "id": 119973,
+                "title": "<p>Congrats to Israel's IOI team!</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065329,
+                "creationTimeSeconds": 1693843175,
+                "commentatorHandle": "ammar_hammoud",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><blockquote><p>&quot;ninja outfits&quot; </p> </blockquote><p>Oh wow, you're saying about the person he's trolling, but you don't say trolling about yourself when you call the hijab like this.</p><p>Well, I'm afraid (and sure) to tell you that it will come the day that you will be asked about everything small or big you did or say.<br /><strong>MARK MY WORDS</strong></p></div>",
+                "parentCommentId": 1065237,
+                "rating": -2
+            }
+        },
+        {
+            "timeSeconds": 1693842709,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693761085,
+                "rating": 128,
+                "authorHandle": "Pyqe",
+                "modificationTimeSeconds": 1693761085,
+                "id": 120025,
+                "title": "<p>COMPFEST 15 Preliminary — Editorial</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065328,
+                "creationTimeSeconds": 1693842709,
+                "commentatorHandle": "mountain",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>in problem C, how can we know Zx&gt;Zy what is the condition ?</p></div>",
+                "rating": 0
+            }
+        },
+        {
+            "timeSeconds": 1693842545,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693605430,
+                "rating": 107,
+                "authorHandle": "Sacharlemagne",
+                "modificationTimeSeconds": 1693605739,
+                "id": 119973,
+                "title": "<p>Congrats to Israel's IOI team!</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065327,
+                "creationTimeSeconds": 1693842545,
+                "commentatorHandle": "Ahmad_Alakhras",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>Perhaps what is known as Israel outperforms all Muslims by stealing and falsifying facts and history, occupying and stealing land, persecuting the population with weapons, oppression, terrorism, killing Palestinians and stirring up strife in neighboring countries. Do you mean these aspects? I am almost certain that they stole the medals from one of the countries, just as they stole the land from some countries, as this is their habit search in google about this ,thx</p></div>",
+                "parentCommentId": 1065278,
+                "rating": -2
+            }
+        },
+        {
+            "timeSeconds": 1693842257,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693761085,
+                "rating": 128,
+                "authorHandle": "Pyqe",
+                "modificationTimeSeconds": 1693761085,
+                "id": 120025,
+                "title": "<p>COMPFEST 15 Preliminary — Editorial</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065326,
+                "creationTimeSeconds": 1693842257,
+                "commentatorHandle": "soham_c04",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>Can you explain how you found out the Wrong Answer/hack to the submission? I find it very difficult to find the WA test case even in my solutions, let alone understand other's solutions and then hack theirs. Also, for some reason, I find it very hard to understand someone else's solution/logic in the solution, until and unless their logic exactly overlaps with my thought process.</p></div>",
+                "parentCommentId": 1065149,
+                "rating": 0
+            }
+        },
+        {
+            "timeSeconds": 1693842215,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693842215,
+                "rating": 4,
+                "authorHandle": "NeXuS69",
+                "modificationTimeSeconds": 1693842215,
+                "id": 120065,
+                "title": "<p>Missing Rating for Latest Question </p>",
+                "locale": "en",
+                "tags": [
+                    "rating",
+                    "problemset"
+                ]
+            }
+        },
+        {
+            "timeSeconds": 1693841736,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": false,
+                "creationTimeSeconds": 1675270538,
+                "rating": 129,
+                "authorHandle": "adnan_toky",
+                "modificationTimeSeconds": 1675323030,
+                "id": 112149,
+                "title": "<p>Codeforces Round #848 (Div. 2) Editorial</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065324,
+                "creationTimeSeconds": 1693841736,
+                "commentatorHandle": "ComboGirl",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>Here's another simple way to show the stationary probability is $$$\\frac{1}{2^n}$$$ more simply. We are taking a random walk on the vertices of the boolean hypercube with vertices $$$\\{0,1\\}^n.$$$ (Each of the $$$n$$$ bits corresponds to one dimension of the cube), and toggling one bit corresponds to moving along an edge. This is clearly symmetric with respect to each of the $$$2^n$$$ vertices. By symmetry of the cube, the stationary probability is the same for each vertex and so each is equal to $$$\\frac{1}{2^n}.$$$</p><p>More generally the stationary distribution on an unweighted finite graph (neighbors picked uniformly at random) is $$$\\pi_v = \\frac{deg(v)}{2E}$$$ where $$$E$$$ is the number of edges.</p></div>",
+                "parentCommentId": 1000252,
+                "rating": 0
+            }
+        },
+        {
+            "timeSeconds": 1693841710,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693605430,
+                "rating": 107,
+                "authorHandle": "Sacharlemagne",
+                "modificationTimeSeconds": 1693605739,
+                "id": 119973,
+                "title": "<p>Congrats to Israel's IOI team!</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065323,
+                "creationTimeSeconds": 1693841710,
+                "commentatorHandle": "barbar1k",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>Congrats Israel! Israel is just amazing! very few people but great.</p></div>",
+                "rating": 2
+            }
+        },
+        {
+            "timeSeconds": 1693841550,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693761085,
+                "rating": 128,
+                "authorHandle": "Pyqe",
+                "modificationTimeSeconds": 1693761085,
+                "id": 120025,
+                "title": "<p>COMPFEST 15 Preliminary — Editorial</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065322,
+                "creationTimeSeconds": 1693841550,
+                "commentatorHandle": "gameboygzm",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><pre><code>1 4 3\n10 1 20 1\n</code></pre></div>",
+                "parentCommentId": 1065151,
+                "rating": 0
+            }
+        },
+        {
+            "timeSeconds": 1693841345,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": false,
+                "creationTimeSeconds": 1693808899,
+                "rating": 1,
+                "authorHandle": "tahmidarefin",
+                "modificationTimeSeconds": 1693809624,
+                "id": 120045,
+                "title": "<p>Suggestions/Guidance Needed!</p>",
+                "locale": "en",
+                "tags": [
+                    "guidance",
+                    "suggestions",
+                    "improvements"
+                ]
+            },
+            "comment": {
+                "id": 1065321,
+                "creationTimeSeconds": 1693841345,
+                "commentatorHandle": "tahmidarefin",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>Thanks for the suggestion.</p></div>",
+                "parentCommentId": 1065208,
+                "rating": 0
+            }
+        },
+        {
+            "timeSeconds": 1693841198,
+            "blogEntry": {
+                "originalLocale": "ru",
+                "allowViewHistory": false,
+                "creationTimeSeconds": 1490640259,
+                "rating": 34,
+                "authorHandle": "BledDest",
+                "modificationTimeSeconds": 1490640730,
+                "id": 51254,
+                "title": "<p>Educational Codeforces Round 18 — Editorial</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065320,
+                "creationTimeSeconds": 1693841198,
+                "commentatorHandle": "B_Consistent",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>why do Edu Forces always educate only Irritation Implementational questions ? </p></div>",
+                "rating": 0
+            }
+        },
+        {
+            "timeSeconds": 1693841163,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693761085,
+                "rating": 128,
+                "authorHandle": "Pyqe",
+                "modificationTimeSeconds": 1693761085,
+                "id": 120025,
+                "title": "<p>COMPFEST 15 Preliminary — Editorial</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065319,
+                "creationTimeSeconds": 1693841163,
+                "commentatorHandle": "gameboygzm",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>Has anyone talked about H question? I didn't understand the solution.</p></div>",
+                "rating": 0
+            }
+        },
+        {
+            "timeSeconds": 1693840644,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693605430,
+                "rating": 107,
+                "authorHandle": "Sacharlemagne",
+                "modificationTimeSeconds": 1693605739,
+                "id": 119973,
+                "title": "<p>Congrats to Israel's IOI team!</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065318,
+                "creationTimeSeconds": 1693840644,
+                "commentatorHandle": "Mazen_Mohammed",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>We haven't heard about you and your people during the ᛋᛋ era :/ </p></div>",
+                "rating": -2
+            }
+        },
+        {
+            "timeSeconds": 1693840624,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693840624,
+                "rating": 3,
+                "authorHandle": "pabloskimg",
+                "modificationTimeSeconds": 1693840624,
+                "id": 120064,
+                "title": "<p>Understanding David Pisinger's balanced algorithm for the subset-sum problem with bounded weights</p>",
+                "locale": "en",
+                "tags": [
+                    "knapsack",
+                    "subset sum",
+                    "speedup"
+                ]
+            }
+        },
+        {
+            "timeSeconds": 1693840465,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693836784,
+                "rating": 30,
+                "authorHandle": "Sacharlemagne",
+                "modificationTimeSeconds": 1693836784,
+                "id": 120061,
+                "title": "<p>About Codeforces and politics.</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065317,
+                "creationTimeSeconds": 1693840465,
+                "commentatorHandle": "Raza_110",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>That's the proper solution...</p></div>",
+                "parentCommentId": 1065316,
+                "rating": -1
+            }
+        },
+        {
+            "timeSeconds": 1693840119,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693836784,
+                "rating": 30,
+                "authorHandle": "Sacharlemagne",
+                "modificationTimeSeconds": 1693836784,
+                "id": 120061,
+                "title": "<p>About Codeforces and politics.</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065316,
+                "creationTimeSeconds": 1693840119,
+                "commentatorHandle": "Hunter-2.0",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>I think you must delete that blog to get rid of all that stuff.</p></div>",
+                "parentCommentId": 1065293,
+                "rating": -1
+            }
+        },
+        {
+            "timeSeconds": 1693839969,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693761085,
+                "rating": 128,
+                "authorHandle": "Pyqe",
+                "modificationTimeSeconds": 1693761085,
+                "id": 120025,
+                "title": "<p>COMPFEST 15 Preliminary — Editorial</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065315,
+                "creationTimeSeconds": 1693839969,
+                "commentatorHandle": "34z12000",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>Not sure that greedy works in D</p></div>",
+                "parentCommentId": 1065151,
+                "rating": 0
+            }
+        },
+        {
+            "timeSeconds": 1693839811,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693605430,
+                "rating": 107,
+                "authorHandle": "Sacharlemagne",
+                "modificationTimeSeconds": 1693605739,
+                "id": 119973,
+                "title": "<p>Congrats to Israel's IOI team!</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065314,
+                "creationTimeSeconds": 1693839811,
+                "commentatorHandle": "Hunter-2.0",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>&lt;3</p></div>",
+                "parentCommentId": 1065262,
+                "rating": -1
+            }
+        },
+        {
+            "timeSeconds": 1693839775,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693605430,
+                "rating": 107,
+                "authorHandle": "Sacharlemagne",
+                "modificationTimeSeconds": 1693605739,
+                "id": 119973,
+                "title": "<p>Congrats to Israel's IOI team!</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065313,
+                "creationTimeSeconds": 1693839775,
+                "commentatorHandle": "Hunter-2.0",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>I think you don't know something which I cannot tell here because every single country on the map is afraid of that.</p></div>",
+                "parentCommentId": 1065280,
+                "rating": 0
+            }
+        },
+        {
+            "timeSeconds": 1693839403,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693605430,
+                "rating": 107,
+                "authorHandle": "Sacharlemagne",
+                "modificationTimeSeconds": 1693605739,
+                "id": 119973,
+                "title": "<p>Congrats to Israel's IOI team!</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065312,
+                "creationTimeSeconds": 1693839403,
+                "commentatorHandle": "Hunter-2.0",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>You are just posting same verse again and again. So you better read some verses before and after this verse and I hope if you are not out of your mind you will understand the real point.</p></div>",
+                "parentCommentId": 1065310,
+                "rating": 0
+            }
+        },
+        {
+            "timeSeconds": 1693838935,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693605430,
+                "rating": 107,
+                "authorHandle": "Sacharlemagne",
+                "modificationTimeSeconds": 1693605739,
+                "id": 119973,
+                "title": "<p>Congrats to Israel's IOI team!</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065309,
+                "creationTimeSeconds": 1693838935,
+                "commentatorHandle": "Hunter-2.0",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>We are not like others who make changes in their HOLY BOOKS. What is written in Quran will be there in its original form till the day of judgement.</p></div>",
+                "parentCommentId": 1065249,
+                "rating": 0
+            }
+        },
+        {
+            "timeSeconds": 1693838495,
+            "blogEntry": {
+                "originalLocale": "en",
+                "allowViewHistory": true,
+                "creationTimeSeconds": 1693605430,
+                "rating": 107,
+                "authorHandle": "Sacharlemagne",
+                "modificationTimeSeconds": 1693605739,
+                "id": 119973,
+                "title": "<p>Congrats to Israel's IOI team!</p>",
+                "locale": "en",
+                "tags": []
+            },
+            "comment": {
+                "id": 1065304,
+                "creationTimeSeconds": 1693838495,
+                "commentatorHandle": "JaberSH1",
+                "locale": "en",
+                "text": "<div class=\"ttypography\"><p>I don't see where you're tryna get to, they can go/travel wherever they want not fearing Muslims since they can't fight in these 4 months, but whatever they do or plan to do, they won't escape God.</p><p>You can keep LOLing showing how you're not seeking knowledge on Islam but rather just wasting your time, and I'm not ready to waste my time with you.</p><p>Have a good day :)</p></div>",
+                "parentCommentId": 1065289,
+                "rating": 3
             }
         }
     ]

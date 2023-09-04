@@ -38,9 +38,9 @@ def get_action():
 
 def main():
     get_gym()
-    # get_problems()
-    # get_tasks()
-    # get_action()
+    get_problems()
+    get_tasks()
+    get_action()
 
 
 if __name__ == '__main__':
