@@ -28,6 +28,11 @@
 - код оформлен согласно pep8
 - оформлен Readme файл
 
+#### Библиотека для базы данный PostgreSQL
+Для асинхронного подключения необходима библиотека `asyncpg`
+**asyncpg** — это библиотека интерфейса базы данных, разработанная специально для PostgreSQL и Pythonasyncio.
+(is a database interface library designed specifically for PostgreSQL and Python/asyncio).
+
 
 ### ПОРЯДОК ЗАПУСКА
 Делаем миграции на `alembic`
@@ -41,7 +46,11 @@ alembic init migrations
 alembic revision --autogenerate -m "Database creation"
 ```
 
-Для асинхронного подключения необходима библиотека `asyncpg`
-**asyncpg** — это библиотека интерфейса базы данных, разработанная специально для PostgreSQL и Pythonasyncio.
-(is a database interface library designed specifically for PostgreSQL and Python/asyncio).
+Далее делаем миграции. Вводим команду:
+```python
+alembic upgrade fefb3321a04d
+```
+где `fefb3321a04d` — это хэш, точнее идентификаторы ревизий, используемые Alembic до которой хотим обновиться
+
+
 
