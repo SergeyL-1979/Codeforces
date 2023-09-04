@@ -37,3 +37,11 @@ alembic init migrations
 
 Делаем ревизию базы данных с помощью **`alembic`** и флага `--autogenerate`, который позволит сравнить текущее состояние
 базы с тем, что есть на сервере(бэкенде)
+```python
+alembic revision --autogenerate -m "Database creation"
+```
+
+Для асинхронного подключения необходима библиотека `asyncpg`
+**asyncpg** — это библиотека интерфейса базы данных, разработанная специально для PostgreSQL и Pythonasyncio.
+(is a database interface library designed specifically for PostgreSQL and Python/asyncio).
+
