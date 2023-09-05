@@ -36,6 +36,10 @@
 
 
 ### ПОРЯДОК ЗАПУСКА
+```python
+uvicorn app.main:app --reload
+```
+
 Делаем миграции на `alembic`
 ```python
 alembic init migrations
@@ -50,6 +54,8 @@ alembic revision --autogenerate -m "Database creation"
 Далее делаем миграции. Вводим команду:
 ```python
 alembic upgrade fefb3321a04d
+или
+alembic upgrade head
 ```
 где `fefb3321a04d` — это хэш, точнее идентификаторы ревизий, используемые Alembic до которой хотим обновиться
 
