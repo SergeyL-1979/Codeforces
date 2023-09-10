@@ -25,7 +25,7 @@ problem = Table(
     Column("contest_id", Integer,),
     Column("index", String),
     Column("title", String),
-    # Column("theme_id", Integer, ForeignKey(theme.c.id)),
+    Column("theme_id", Integer, ForeignKey(theme.c.id)),
     Column("solve_count", Integer),
     Column("difficulty", Integer),
     Column("date", TIMESTAMP),
