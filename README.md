@@ -37,7 +37,7 @@
 
 ### ПОРЯДОК ЗАПУСКА
 ```python
-uvicorn app.main:app --reload
+uvicorn main:app --reload
 ```
 
 Делаем миграции на `alembic`
