@@ -14,7 +14,7 @@ theme = Table(
     metadata,
     Column("id", Integer, primary_key=True),
     Column("theme", String),
-    Column("children", secondary=association_table),
+    # Column("children", secondary=association_table),
 )
 
 
