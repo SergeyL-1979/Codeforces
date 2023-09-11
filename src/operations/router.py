@@ -2,7 +2,7 @@ import requests
 from fastapi import APIRouter, Depends
 from sqlalchemy.ext.asyncio import AsyncSession
 
-from database import get_async_session
+# from database import get_async_session
 
 router = APIRouter(
     prefix="/operations",
@@ -12,9 +12,7 @@ router = APIRouter(
 
 @router.get("/")
 async def get_problems():
-    url = 'https://codeforces.com/api/problemset.problems'
-    response = requests.get(url)
-    problems = response.json()
+    problems = requests.get('https://codeforces.com/api/problemset.problems').json()
     list_of_problems = []
 
     for i in range(len(problems['result']['problems'])):
