@@ -4,7 +4,7 @@ from fastapi_users.db import SQLAlchemyBaseUserTable
 from sqlalchemy.orm import Mapped, mapped_column
 
 from sqlalchemy import (
-    MetaData, Table, Column, Integer, String, TIMESTAMP, ForeignKey, JSON, Boolean
+    MetaData, Table, Column, Integer, String, TIMESTAMP, Boolean, ForeignKey, JSON,
 )
 from sqlalchemy.orm import DeclarativeBase
 # from src.database import Base

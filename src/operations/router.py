@@ -30,3 +30,20 @@ async def get_problems():
     return list_of_problems
 
 
+# def problems_to_db(args):
+#     for problem in args:
+#         new_tags = Theme.objects.filter(theme__in=problem.get('tags')) # Новые значения тегов
+#         if not Problem.objects.filter(
+#                 contest_id=problem.get('contest_id'),
+#                 index=problem.get('index')
+#                 ).exists():
+#             create_ = Problem.objects.create(
+#                         contest_id=problem.get('contest_id'),
+#                         index=problem.get('index'),
+#                         title=problem.get('title'),
+#                         difficulty=problem.get('rating'),
+#                         solve_count=problem.get('solvedCount')
+#                         )
+#
+#             create_.theme.set(new_tags)  # Используйте метод set() для установки новых значений
+#             create_.save()

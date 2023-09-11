@@ -1,4 +1,7 @@
+from datetime import datetime
+
 from sqlalchemy import Table, Column, Integer, String, ForeignKey, TIMESTAMP, MetaData
+from sqlalchemy.orm import Mapped, mapped_column
 
 metadata = MetaData()
 
@@ -31,6 +34,21 @@ problem = Table(
     Column("date", TIMESTAMP),
 )
 
+
+class Theme:
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    theme: Mapped[str] = mapped_column(String, nullable=False)
+
+
+class Problem:
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    contest_id: Mapped[int] = mapped_column(Integer)
+    index: Mapped[str] = mapped_column(String, nullable=False)
+    title: Mapped[str] = mapped_column(String, nullable=False)
+    theme: Mapped[int] = mapped_column(Integer, ForeignKey(theme.c.id))
+    solve_count: Mapped[int] = mapped_column(Integer)
+    difficulty: Mapped[int] = mapped_column(Integer)
+    date: Mapped[str] = mapped_column(TIMESTAMP, default=datetime.utcnow)
 
 
 
