@@ -1,8 +1,10 @@
 import uvicorn
-from fastapi import FastAPI, Depends
+from fastapi import FastAPI
 
-from auth.base_config import auth_backend, fastapi_users
-from auth.schemas import UserRead, UserCreate
+from src.auth.base_config import auth_backend, fastapi_users
+from src.auth.schemas import UserRead, UserCreate
+
+from src.operations.router import router as router_operations
 
 
 app = FastAPI()
@@ -19,9 +21,7 @@ app.include_router(
 )
 
 
-# @app.get("/protected-route")
-# def protected_route(user: User = Depends(current_user)):
-#     return f"Hello, {user.email}"
+app.include_router(router_operations)
 
 
 if __name__ == "__main__":
